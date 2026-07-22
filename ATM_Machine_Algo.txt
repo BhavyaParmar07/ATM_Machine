@@ -1,0 +1,7 @@
+1] Start
+2] Displaying the ATM_Menu for the user.
+3] Asking the user for the Menu_Mode.
+4] There are 4 Mode {1. "Check_Balance", 2. "Deposite", 3. "Withdraw", 4. "Quit"}
+5] Checking the Menu_Mode & Printing accodingly.
+6] Also Creating a temprery Bank_account {FIXED_FOR_NOW(Account_No = "15335122", Account_Pin = "159753")}
+7] Stop
